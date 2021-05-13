@@ -1,3 +1,6 @@
+#Python script for data entropy analysis
+#Sergei Korneev
+
 import string, getopt, sys, os, array, math, re, collections
 from sys import stdout
 
